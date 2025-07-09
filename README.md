@@ -28,26 +28,6 @@
 
 ---
 
-## 🏆 Achievements
-
-| Platform        | Highlight                                      |
-|-----------------|------------------------------------------------|
-| LeetCode        | 🏅 Knight – Max Rating: **1850** (Top 6%)       |
-| Codeforces      | 🛡️ Pupil – Max Rating: **1289**                 |
-| HackerRank      | ⭐ 5-Star in SQL Practice                      |
-| Competitions    | 🥈 2nd – CodeGolf (Sphinx’24) <br> 🥈 2nd – Coding Contest (C2C Club) |
-
----
-
-## 👨‍💻 Leadership
-
-**Executive @ CS Club, MNIT Jaipur (2024–25)**  
-- 📌 Hosted coding contests & dev workshops  
-- ⚡ Conducted **Web-A-thon** (24hr Hackathon) & **Codemane**  
-- 🎙️ Organized tech talks & junior orientation
-
----
-
 ## 📫 Let's Connect
 
 | Platform     | Link                                                                 |
